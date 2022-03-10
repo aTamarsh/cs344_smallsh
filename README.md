@@ -1,5 +1,5 @@
 # CS344: Operating Systems - smallsh
-## Tamarsh Abeysekera, Oregon State University
+### by Tamarsh Abeysekera, Oregon State University
 
 `smallsh` implements a subset implements a subset of features of well-known shells, such as bash.
 
