@@ -9,3 +9,11 @@ This program does the following:
 6. Supports input and output redirection
 7. Supports running commands in foreground and background processes
 8. Implements custom handlers for 2 signals, SIGINT and SIGTSTP
+
+
+### Running this program
+
+Makefile included, please use `make` to compile
+
+Run program using `./smallsh`; or,
+Run with script using `bash p3testscript`
