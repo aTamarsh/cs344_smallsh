@@ -1,3 +1,6 @@
+![smallsh](https://i.imgur.com/HCC6Wlg.png)
+
+
 `smallsh` implements a subset of features of well-known shells, such as bash.
 
 This program does the following:
