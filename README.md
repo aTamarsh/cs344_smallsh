@@ -1,4 +1,4 @@
-`smallsh` implements a subset implements a subset of features of well-known shells, such as bash.
+`smallsh` implements a subset of features of well-known shells, such as bash.
 
 This program does the following:
 1. Provides a prompt for running commands
